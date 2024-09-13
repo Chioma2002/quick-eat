@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #80808044;
+    width: 70rem;
+}
+.item .price{
+    color: orange;
+}
+.item button{
+    height: 1.8rem;
+    width: 2rem;
+    margin: 3rem 2rem;
+    border: 1PX solid orange;
+}
+
+.check-1{
+    display: flex;
+
+
+}
+
+img{
+    width: 7vw;
+    height: 16vh;
+
+    margin-top: 1rem;
+}
+p{
+    padding-top: 2.4rem;
+    margin-left: 2rem;
+    
+
+}
+
+.check_1 {
+    border-bottom: 1px solid #9995;
+    padding: 1rem;
+    max-width: 50%;
+}
+.check {
+    border-bottom: 1px solid #9995;
+    padding: 1rem;
+    max-width: 50%;
+}
+
+
+.check-2{
+    border: 2px solid whitesmoke;
+    width: 25vw;
+    height: 60vh;
+    border-radius: 2rem;
+    margin-top: 2em;
+    position: sticky;
+    top: 1px;
+    
+    transform: translate(-19rem, -1rem);
+    
+}
+
+
+.oko{
+    
+display: flex;
+
+}
+h3{
+    padding-top: 2.1rem;
+    margin-left: 6rem;
+}
+.oko-2{
+    display: flex;   
+}
+h2{
+    padding-top: 2.1rem;
+    margin-left: 6.4rem; 
+    color: orange;  
+}
+
+.check-2 button{
+    margin-left: 2rem;
+    color: #fff;
+    background-color:orange;
+    border: none;
+    padding-right: 5em;
+    padding-left: 5rem;
+    padding-top: 7px;
+    padding-bottom:7px ;
+}
+.loud{
+ display: grid;
+ grid-template-columns: 2fr 1fr;
+}
